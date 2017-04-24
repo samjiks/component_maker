@@ -1,13 +1,13 @@
-# ARM TEST
+# Component Adder Test
 
 ## Requirements
 Python 3.3 and above
 
 ## Run
-python app.py
+python app.py -r
 
 ## How it Works 
-From the Generate logs
+We understand the working from the Generated logs
 - Components with workers which we could see what is added to the list
    [{'w2': ['P'], 'w1': ['B']}, {'w3': [], 'w4': []}, {'w6': [], 'w5': []}]
 - Creating Component A on to the conveyer belt at 19 to see what is being 
